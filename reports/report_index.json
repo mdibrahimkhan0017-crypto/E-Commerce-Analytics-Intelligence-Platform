@@ -1,0 +1,30 @@
+{
+  "report_date": "2026-05-12T20:37:40.202713",
+  "period": "2025-05-13 to 2026-05-13",
+  "dashboards": [
+    {
+      "name": "executive_dashboard",
+      "png_path": "reports/executive_dashboard_20260512_203738.png",
+      "pdf_path": "reports/executive_dashboard_20260512_203738.pdf",
+      "generated_at": "2026-05-12T20:37:38.786318"
+    },
+    {
+      "name": "product_dashboard",
+      "png_path": "reports/product_dashboard_20260512_203738.png",
+      "pdf_path": "reports/product_dashboard_20260512_203738.pdf",
+      "generated_at": "2026-05-12T20:37:39.207345"
+    },
+    {
+      "name": "customer_dashboard",
+      "png_path": "reports/customer_dashboard_20260512_203739.png",
+      "pdf_path": "reports/customer_dashboard_20260512_203739.pdf",
+      "generated_at": "2026-05-12T20:37:39.934061"
+    },
+    {
+      "name": "sales_trend_dashboard",
+      "png_path": "reports/sales_trend_dashboard_20260512_203739.png",
+      "pdf_path": "reports/sales_trend_dashboard_20260512_203739.pdf",
+      "generated_at": "2026-05-12T20:37:40.202706"
+    }
+  ]
+}

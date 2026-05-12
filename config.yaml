@@ -1,0 +1,41 @@
+# ==============================================================================
+# E-Commerce Analytics & Intelligence Platform — Configuration
+# ==============================================================================
+# All paths are relative to the project root unless prefixed with '/'.
+# Override any value via environment variables prefixed with ECOM_
+# e.g., ECOM_DB_PATH overrides database.db_path
+# ==============================================================================
+
+database:
+  # Path to the SQLite database file
+  db_path: "db/ecommerce.db"
+
+reports:
+  # Directory where generated charts, PDFs, and export manifests are saved
+  output_dir: "reports/"
+  # Resolution for raster outputs (PNG)
+  dpi: 150
+  # Default figure size in inches [width, height]
+  figsize: [14, 8]
+
+theme:
+  # Brand primary colour used for titles, accents, and single-series charts
+  primary_color: "#2E86AB"
+  # Font family applied to all chart text; must be installed on the system
+  font_family: "DejaVu Sans"
+  # Six-colour palette for multi-series charts (category10-inspired)
+  palette:
+    - "#2E86AB"
+    - "#A23B72"
+    - "#F18F01"
+    - "#C73E1D"
+    - "#3B1F2B"
+    - "#44BBA4"
+
+pipeline:
+  # Number of records processed per database insert batch
+  chunk_size: 1000
+  # Maximum seconds a single SQL query may run before timeout
+  query_timeout_sec: 30
+  # Logging verbosity: DEBUG | INFO | WARNING | ERROR
+  log_level: "INFO"

@@ -1,0 +1,201 @@
+product_id,name,category,cost_price,list_price,is_active
+PROD-00001,Wireless Headphones,Electronics,30.66,46.89,True
+PROD-00002,Smart Watch,Electronics,20.13,30.06,True
+PROD-00003,Bluetooth Speaker,Electronics,29.31,52.11,True
+PROD-00004,USB-C Hub,Electronics,59.11,96.17,True
+PROD-00005,Mechanical Keyboard,Electronics,16.22,28.11,True
+PROD-00006,Webcam HD,Electronics,15.89,28.11,True
+PROD-00007,Portable Charger,Electronics,59.45,100.03,True
+PROD-00008,LED Desk Lamp,Electronics,37.27,56.67,True
+PROD-00009,Noise Canceller,Electronics,14.7,23.84,True
+PROD-00010,Digital Thermometer,Electronics,31.9,48.41,True
+PROD-00011,Cotton T-Shirt,Clothing,15.37,23.94,True
+PROD-00012,Denim Jacket,Clothing,15.44,23.9,True
+PROD-00013,Running Shorts,Clothing,21.91,39.23,True
+PROD-00014,Wool Sweater,Clothing,5.3,8.68,True
+PROD-00015,Silk Scarf,Clothing,6.56,9.9,True
+PROD-00016,Canvas Sneakers,Clothing,12.39,22.34,True
+PROD-00017,Yoga Pants,Clothing,10.62,16.3,True
+PROD-00018,Linen Shirt,Clothing,23.47,41.26,True
+PROD-00019,Beanie Hat,Clothing,11.34,17.54,True
+PROD-00020,Leather Belt,Clothing,8.53,12.32,False
+PROD-00021,Scented Candle Set,Home,52.94,92.38,True
+PROD-00022,Throw Pillow,Home,17.12,28.27,True
+PROD-00023,Wall Clock,Home,19.5,34.72,True
+PROD-00024,Plant Pot Ceramic,Home,7.39,12.22,True
+PROD-00025,Kitchen Scale,Home,13.39,22.62,True
+PROD-00026,Bath Towel Set,Home,19.82,35.79,True
+PROD-00027,Photo Frame,Home,9.29,14.8,True
+PROD-00028,Door Mat,Home,24.45,43.08,True
+PROD-00029,Storage Basket,Home,14.26,21.75,True
+PROD-00030,Coaster Set,Home,17.33,27.0,True
+PROD-00031,Yoga Mat,Sports,15.21,21.73,True
+PROD-00032,Resistance Band Set,Sports,69.07,121.1,True
+PROD-00033,Jump Rope,Sports,18.89,32.8,True
+PROD-00034,Water Bottle,Sports,11.05,15.79,True
+PROD-00035,Gym Gloves,Sports,40.94,58.9,True
+PROD-00036,Foam Roller,Sports,9.16,14.09,True
+PROD-00037,Tennis Balls Pack,Sports,24.24,38.33,True
+PROD-00038,Hiking Socks,Sports,5.0,8.4,True
+PROD-00039,Swim Goggles,Sports,8.58,13.07,True
+PROD-00040,Fitness Tracker Band,Sports,21.9,38.01,True
+PROD-00041,Moisturiser SPF30,Beauty,32.41,55.53,True
+PROD-00042,Lip Balm Organic,Beauty,24.97,37.34,True
+PROD-00043,Face Serum,Beauty,19.06,30.54,True
+PROD-00044,Hair Oil,Beauty,17.05,26.82,True
+PROD-00045,Nail Polish Set,Beauty,8.2,11.76,True
+PROD-00046,Eye Cream,Beauty,13.66,20.01,True
+PROD-00047,Body Lotion,Beauty,14.63,23.99,True
+PROD-00048,Sunscreen Mist,Beauty,43.16,69.41,True
+PROD-00049,Face Mask Pack,Beauty,25.75,42.12,True
+PROD-00050,Perfume Rollerball,Beauty,5.48,9.64,True
+PROD-00051,Wireless Headphones v2,Electronics,23.31,41.55,True
+PROD-00052,Smart Watch v2,Electronics,15.87,25.29,True
+PROD-00053,Bluetooth Speaker v2,Electronics,13.91,20.62,True
+PROD-00054,USB-C Hub v2,Electronics,32.43,50.81,True
+PROD-00055,Mechanical Keyboard v2,Electronics,38.8,68.15,True
+PROD-00056,Webcam HD v2,Electronics,43.23,63.55,True
+PROD-00057,Portable Charger v2,Electronics,11.55,18.4,True
+PROD-00058,LED Desk Lamp v2,Electronics,15.32,26.67,True
+PROD-00059,Noise Canceller v2,Electronics,24.38,41.76,True
+PROD-00060,Digital Thermometer v2,Electronics,41.15,65.55,True
+PROD-00061,Cotton T-Shirt v2,Clothing,13.3,23.68,True
+PROD-00062,Denim Jacket v2,Clothing,20.17,29.08,True
+PROD-00063,Running Shorts v2,Clothing,9.83,15.27,True
+PROD-00064,Wool Sweater v2,Clothing,8.08,14.33,True
+PROD-00065,Silk Scarf v2,Clothing,37.36,58.48,True
+PROD-00066,Canvas Sneakers v2,Clothing,49.26,85.57,True
+PROD-00067,Yoga Pants v2,Clothing,21.58,31.49,True
+PROD-00068,Linen Shirt v2,Clothing,46.03,66.85,False
+PROD-00069,Beanie Hat v2,Clothing,28.99,42.66,True
+PROD-00070,Leather Belt v2,Clothing,14.59,21.08,True
+PROD-00071,Scented Candle Set v2,Home,25.15,42.65,True
+PROD-00072,Throw Pillow v2,Home,61.8,97.19,True
+PROD-00073,Wall Clock v2,Home,17.91,32.3,True
+PROD-00074,Plant Pot Ceramic v2,Home,62.56,99.01,True
+PROD-00075,Kitchen Scale v2,Home,3.15,5.29,True
+PROD-00076,Bath Towel Set v2,Home,39.51,58.87,True
+PROD-00077,Photo Frame v2,Home,21.75,35.2,True
+PROD-00078,Door Mat v2,Home,15.41,26.86,True
+PROD-00079,Storage Basket v2,Home,21.88,35.31,True
+PROD-00080,Coaster Set v2,Home,4.71,8.24,True
+PROD-00081,Yoga Mat v2,Sports,16.98,28.4,True
+PROD-00082,Resistance Band Set v2,Sports,25.59,42.52,True
+PROD-00083,Jump Rope v2,Sports,61.88,93.18,True
+PROD-00084,Water Bottle v2,Sports,13.04,23.04,True
+PROD-00085,Gym Gloves v2,Sports,10.69,18.8,True
+PROD-00086,Foam Roller v2,Sports,13.31,23.31,True
+PROD-00087,Tennis Balls Pack v2,Sports,43.48,62.85,True
+PROD-00088,Hiking Socks v2,Sports,25.54,41.68,True
+PROD-00089,Swim Goggles v2,Sports,15.66,22.85,True
+PROD-00090,Fitness Tracker Band v2,Sports,32.73,47.43,True
+PROD-00091,Moisturiser SPF30 v2,Beauty,20.5,35.44,True
+PROD-00092,Lip Balm Organic v2,Beauty,45.63,65.24,True
+PROD-00093,Face Serum v2,Beauty,13.81,20.26,True
+PROD-00094,Hair Oil v2,Beauty,14.84,26.33,True
+PROD-00095,Nail Polish Set v2,Beauty,15.57,25.17,True
+PROD-00096,Eye Cream v2,Beauty,7.58,11.89,False
+PROD-00097,Body Lotion v2,Beauty,24.13,40.74,True
+PROD-00098,Sunscreen Mist v2,Beauty,26.89,39.76,True
+PROD-00099,Face Mask Pack v2,Beauty,19.7,33.23,False
+PROD-00100,Perfume Rollerball v2,Beauty,15.91,28.1,True
+PROD-00101,Wireless Headphones v3,Electronics,7.25,12.3,True
+PROD-00102,Smart Watch v3,Electronics,15.06,24.67,False
+PROD-00103,Bluetooth Speaker v3,Electronics,14.53,26.05,True
+PROD-00104,USB-C Hub v3,Electronics,11.42,18.89,True
+PROD-00105,Mechanical Keyboard v3,Electronics,17.98,29.58,True
+PROD-00106,Webcam HD v3,Electronics,27.79,43.94,True
+PROD-00107,Portable Charger v3,Electronics,79.8,124.01,True
+PROD-00108,LED Desk Lamp v3,Electronics,21.3,37.42,True
+PROD-00109,Noise Canceller v3,Electronics,24.03,39.66,True
+PROD-00110,Digital Thermometer v3,Electronics,19.92,31.43,True
+PROD-00111,Cotton T-Shirt v3,Clothing,4.94,8.64,True
+PROD-00112,Denim Jacket v3,Clothing,19.84,32.51,False
+PROD-00113,Running Shorts v3,Clothing,19.2,34.54,True
+PROD-00114,Wool Sweater v3,Clothing,124.55,185.73,True
+PROD-00115,Silk Scarf v3,Clothing,16.56,28.94,True
+PROD-00116,Canvas Sneakers v3,Clothing,23.35,40.9,True
+PROD-00117,Yoga Pants v3,Clothing,19.32,32.32,True
+PROD-00118,Linen Shirt v3,Clothing,9.39,14.61,True
+PROD-00119,Beanie Hat v3,Clothing,47.1,73.7,True
+PROD-00120,Leather Belt v3,Clothing,35.12,56.06,True
+PROD-00121,Scented Candle Set v3,Home,36.55,57.61,True
+PROD-00122,Throw Pillow v3,Home,9.68,17.52,True
+PROD-00123,Wall Clock v3,Home,50.08,88.41,True
+PROD-00124,Plant Pot Ceramic v3,Home,7.4,12.41,True
+PROD-00125,Kitchen Scale v3,Home,34.0,49.94,True
+PROD-00126,Bath Towel Set v3,Home,98.13,153.44,True
+PROD-00127,Photo Frame v3,Home,10.73,16.55,True
+PROD-00128,Door Mat v3,Home,14.19,22.28,True
+PROD-00129,Storage Basket v3,Home,19.8,35.51,True
+PROD-00130,Coaster Set v3,Home,14.63,23.28,True
+PROD-00131,Yoga Mat v3,Sports,7.45,11.18,True
+PROD-00132,Resistance Band Set v3,Sports,23.39,34.74,True
+PROD-00133,Jump Rope v3,Sports,10.01,15.74,True
+PROD-00134,Water Bottle v3,Sports,26.69,46.13,True
+PROD-00135,Gym Gloves v3,Sports,10.66,17.4,True
+PROD-00136,Foam Roller v3,Sports,56.9,98.0,True
+PROD-00137,Tennis Balls Pack v3,Sports,12.28,19.14,True
+PROD-00138,Hiking Socks v3,Sports,17.9,26.43,True
+PROD-00139,Swim Goggles v3,Sports,38.39,58.53,True
+PROD-00140,Fitness Tracker Band v3,Sports,8.87,13.99,True
+PROD-00141,Moisturiser SPF30 v3,Beauty,24.14,38.83,True
+PROD-00142,Lip Balm Organic v3,Beauty,57.34,82.68,True
+PROD-00143,Face Serum v3,Beauty,6.77,10.75,True
+PROD-00144,Hair Oil v3,Beauty,24.54,37.68,True
+PROD-00145,Nail Polish Set v3,Beauty,25.9,39.72,True
+PROD-00146,Eye Cream v3,Beauty,33.75,57.24,True
+PROD-00147,Body Lotion v3,Beauty,9.66,13.93,True
+PROD-00148,Sunscreen Mist v3,Beauty,7.82,13.14,True
+PROD-00149,Face Mask Pack v3,Beauty,33.28,47.72,True
+PROD-00150,Perfume Rollerball v3,Beauty,26.73,40.77,True
+PROD-00151,Wireless Headphones v4,Electronics,24.6,39.46,True
+PROD-00152,Smart Watch v4,Electronics,26.76,42.2,True
+PROD-00153,Bluetooth Speaker v4,Electronics,13.54,20.57,True
+PROD-00154,USB-C Hub v4,Electronics,24.78,38.96,True
+PROD-00155,Mechanical Keyboard v4,Electronics,27.83,40.66,True
+PROD-00156,Webcam HD v4,Electronics,12.08,20.08,True
+PROD-00157,Portable Charger v4,Electronics,69.92,122.25,False
+PROD-00158,LED Desk Lamp v4,Electronics,31.99,46.14,True
+PROD-00159,Noise Canceller v4,Electronics,9.9,14.38,True
+PROD-00160,Digital Thermometer v4,Electronics,34.72,52.44,True
+PROD-00161,Cotton T-Shirt v4,Clothing,11.29,16.74,True
+PROD-00162,Denim Jacket v4,Clothing,36.44,57.45,True
+PROD-00163,Running Shorts v4,Clothing,42.21,74.52,True
+PROD-00164,Wool Sweater v4,Clothing,10.92,18.64,True
+PROD-00165,Silk Scarf v4,Clothing,44.58,65.0,True
+PROD-00166,Canvas Sneakers v4,Clothing,25.86,44.21,True
+PROD-00167,Yoga Pants v4,Clothing,35.3,58.88,True
+PROD-00168,Linen Shirt v4,Clothing,81.48,124.93,True
+PROD-00169,Beanie Hat v4,Clothing,19.37,27.89,True
+PROD-00170,Leather Belt v4,Clothing,11.21,19.54,True
+PROD-00171,Scented Candle Set v4,Home,12.12,17.77,True
+PROD-00172,Throw Pillow v4,Home,12.12,18.71,True
+PROD-00173,Wall Clock v4,Home,18.61,31.38,True
+PROD-00174,Plant Pot Ceramic v4,Home,23.5,42.05,True
+PROD-00175,Kitchen Scale v4,Home,26.04,40.19,True
+PROD-00176,Bath Towel Set v4,Home,39.05,59.09,True
+PROD-00177,Photo Frame v4,Home,18.57,33.42,True
+PROD-00178,Door Mat v4,Home,56.12,91.6,True
+PROD-00179,Storage Basket v4,Home,18.99,27.52,False
+PROD-00180,Coaster Set v4,Home,150.16,222.32,True
+PROD-00181,Yoga Mat v4,Sports,29.65,51.31,True
+PROD-00182,Resistance Band Set v4,Sports,12.37,18.17,True
+PROD-00183,Jump Rope v4,Sports,8.7,15.65,True
+PROD-00184,Water Bottle v4,Sports,29.73,46.42,True
+PROD-00185,Gym Gloves v4,Sports,17.0,28.32,True
+PROD-00186,Foam Roller v4,Sports,35.28,54.59,True
+PROD-00187,Tennis Balls Pack v4,Sports,31.52,46.12,True
+PROD-00188,Hiking Socks v4,Sports,19.69,31.47,True
+PROD-00189,Swim Goggles v4,Sports,12.29,18.31,True
+PROD-00190,Fitness Tracker Band v4,Sports,7.57,11.47,True
+PROD-00191,Moisturiser SPF30 v4,Beauty,15.94,24.23,False
+PROD-00192,Lip Balm Organic v4,Beauty,36.22,60.31,True
+PROD-00193,Face Serum v4,Beauty,25.05,38.47,True
+PROD-00194,Hair Oil v4,Beauty,8.89,13.85,True
+PROD-00195,Nail Polish Set v4,Beauty,22.83,37.38,True
+PROD-00196,Eye Cream v4,Beauty,25.99,43.37,True
+PROD-00197,Body Lotion v4,Beauty,10.07,17.84,True
+PROD-00198,Sunscreen Mist v4,Beauty,22.93,36.88,True
+PROD-00199,Face Mask Pack v4,Beauty,19.0,34.49,True
+PROD-00200,Perfume Rollerball v4,Beauty,9.18,14.88,True

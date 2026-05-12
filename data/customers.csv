@@ -1,0 +1,1001 @@
+customer_id,email,registration_date,region,segment
+CUST-000001,figueroajohn@example.org,2025-04-13,Africa,Premium
+CUST-000002,garzaanthony@example.org,2025-07-28,North America,Budget
+CUST-000003,hoffmanjennifer@example.net,2024-01-08,Europe,Standard
+CUST-000004,shaneramirez@example.org,2024-12-30,Europe,Premium
+CUST-000005,helenpeterson@example.org,2025-08-21,Africa,VIP
+CUST-000006,curtis61@example.com,2024-01-04,North America,VIP
+CUST-000007,lindsay78@example.org,2025-11-27,Latin America,Premium
+CUST-000008,smiller@example.net,2026-04-13,North America,Premium
+CUST-000009,barbara10@example.net,2025-03-21,Europe,Standard
+CUST-000010,tracie31@example.com,2024-01-18,Middle East,VIP
+CUST-000011,francisco53@example.net,2024-03-13,North America,VIP
+CUST-000012,lynchgeorge@example.net,2024-03-01,Europe,VIP
+CUST-000013,ogray@example.net,2024-02-06,Latin America,Standard
+CUST-000014,megan03@example.org,2025-01-12,Latin America,VIP
+CUST-000015,nadams@example.net,2025-10-11,Asia Pacific,Premium
+CUST-000016,jason76@example.net,2025-12-28,Europe,New
+CUST-000017,donald88@example.com,2024-09-27,Asia Pacific,Budget
+CUST-000018,zhurst@example.com,2025-08-08,Europe,Standard
+CUST-000019,williamdavis@example.org,2024-01-09,Asia Pacific,Premium
+CUST-000020,courtneyconner@example.com,2025-12-11,North America,New
+CUST-000021,djames@example.net,2025-02-25,North America,Budget
+CUST-000022,frazierdanny@example.net,2024-02-13,Asia Pacific,VIP
+CUST-000023,daniel62@example.com,2025-08-13,Asia Pacific,Premium
+CUST-000024,teresa28@example.org,2023-05-17,Africa,New
+CUST-000025,meagan89@example.org,2025-12-22,Middle East,Premium
+CUST-000026,amberosborne@example.net,2023-10-28,Latin America,Premium
+CUST-000027,tracy15@example.com,2026-02-12,Middle East,Budget
+CUST-000028,nataliearroyo@example.org,2024-01-31,Africa,VIP
+CUST-000029,spenceamanda@example.org,2025-07-23,Asia Pacific,VIP
+CUST-000030,karroyo@example.com,2023-10-01,Europe,Premium
+CUST-000031,ibrandt@example.net,2024-12-11,North America,Standard
+CUST-000032,raymond57@example.net,2025-06-07,Asia Pacific,Premium
+CUST-000033,jeffreymorgan@example.net,2024-09-19,Europe,Premium
+CUST-000034,adrianzimmerman@example.org,2025-01-09,Latin America,Budget
+CUST-000035,heathchad@example.org,2024-01-19,Latin America,Budget
+CUST-000036,ilewis@example.net,2024-03-13,Europe,Budget
+CUST-000037,esanchez@example.com,2026-03-03,Asia Pacific,Standard
+CUST-000038,hopkinsmichael@example.com,2023-12-08,Africa,Budget
+CUST-000039,nuneztracey@example.org,2024-10-06,Africa,Premium
+CUST-000040,lauren13@example.org,2023-07-19,Middle East,Standard
+CUST-000041,ltaylor@example.com,2023-12-08,Middle East,Standard
+CUST-000042,ramosmichelle@example.net,2024-10-01,Europe,New
+CUST-000043,novaksara@example.org,2023-08-29,Latin America,Budget
+CUST-000044,zolson@example.org,2023-11-12,Africa,VIP
+CUST-000045,gallowayjoseph@example.com,2023-11-10,Europe,Budget
+CUST-000046,smoore@example.org,2024-03-21,North America,Standard
+CUST-000047,adkinsbrian@example.net,2026-04-08,North America,Budget
+CUST-000048,brianromero@example.org,2024-10-17,Latin America,Budget
+CUST-000049,leonardjoe@example.org,2023-07-28,North America,Standard
+CUST-000050,bethwilliams@example.org,2026-03-10,Middle East,Budget
+CUST-000051,sarah35@example.org,2024-08-15,Europe,New
+CUST-000052,emilyevans@example.com,2024-02-28,Latin America,New
+CUST-000053,smithchristine@example.net,2026-02-24,Europe,Budget
+CUST-000054,medinawilliam@example.org,2026-05-08,Europe,Standard
+CUST-000055,suarezmike@example.org,2026-02-28,Africa,VIP
+CUST-000056,cheryl80@example.net,2024-09-04,Middle East,Budget
+CUST-000057,sarah12@example.com,2025-10-24,Africa,VIP
+CUST-000058,newtoneric@example.com,2023-09-17,Latin America,VIP
+CUST-000059,james48@example.com,2025-03-06,Latin America,Budget
+CUST-000060,davisrodney@example.com,2024-02-12,Europe,Standard
+CUST-000061,kellie42@example.net,2023-07-01,Middle East,New
+CUST-000062,hhoffman@example.org,2024-09-08,North America,Premium
+CUST-000063,amydavenport@example.net,2026-03-13,North America,Standard
+CUST-000064,tanderson@example.com,2025-01-08,Africa,Standard
+CUST-000065,nolanjason@example.org,2026-01-22,Africa,New
+CUST-000066,kimberly69@example.net,2025-05-13,Middle East,Premium
+CUST-000067,michellecherry@example.org,2023-10-30,Latin America,New
+CUST-000068,whitesandra@example.com,2026-01-03,Middle East,New
+CUST-000069,josephcobb@example.org,2025-10-08,Middle East,Budget
+CUST-000070,garrisonjeffrey@example.com,2024-07-05,Middle East,Premium
+CUST-000071,jeffreykeller@example.com,2024-05-30,Africa,Premium
+CUST-000072,rasmussenjoshua@example.net,2024-05-07,Africa,VIP
+CUST-000073,sheila14@example.org,2024-11-21,Asia Pacific,Budget
+CUST-000074,benjamin96@example.com,2025-02-07,North America,Budget
+CUST-000075,samuel81@example.com,2025-07-19,Latin America,Standard
+CUST-000076,jonathanfletcher@example.org,2026-01-22,Latin America,Premium
+CUST-000077,michaeljones@example.net,2024-12-03,Africa,Budget
+CUST-000078,elizabeth14@example.net,2026-02-15,Middle East,Standard
+CUST-000079,snguyen@example.com,2024-04-16,Middle East,Premium
+CUST-000080,robertbentley@example.net,2025-01-10,Africa,Budget
+CUST-000081,christinaturner@example.net,2025-08-10,Africa,VIP
+CUST-000082,justin69@example.net,2025-11-11,Middle East,Standard
+CUST-000083,rramos@example.org,2025-04-29,Europe,Budget
+CUST-000084,donnacampbell@example.net,2024-11-23,Europe,VIP
+CUST-000085,clarence34@example.org,2025-04-06,Middle East,Premium
+CUST-000086,andrewsanchez@example.com,2025-10-13,Middle East,Budget
+CUST-000087,gibsonolivia@example.net,2025-03-13,Latin America,Premium
+CUST-000088,psnyder@example.org,2023-12-12,North America,Budget
+CUST-000089,staffordmichelle@example.org,2025-05-01,Asia Pacific,Standard
+CUST-000090,gregoryrubio@example.net,2025-09-12,North America,Standard
+CUST-000091,samanthamartinez@example.org,2024-10-03,Middle East,Premium
+CUST-000092,stephanie79@example.net,2025-10-07,North America,New
+CUST-000093,jrivas@example.com,2026-01-14,North America,VIP
+CUST-000094,wcole@example.org,2026-01-20,Europe,Standard
+CUST-000095,katie87@example.net,2025-11-18,Africa,New
+CUST-000096,sjones@example.org,2024-01-30,Middle East,Standard
+CUST-000097,patricia12@example.org,2024-03-06,Asia Pacific,VIP
+CUST-000098,jasminebrown@example.com,2024-01-22,Middle East,New
+CUST-000099,nperry@example.com,2024-05-10,Europe,VIP
+CUST-000100,gateskathy@example.com,2024-07-13,Africa,Standard
+CUST-000101,kenneth66@example.net,2024-10-17,Africa,Budget
+CUST-000102,tracynelson@example.com,2025-08-09,Latin America,Budget
+CUST-000103,elizabeth62@example.com,2023-06-14,Latin America,VIP
+CUST-000104,meadowsbrittany@example.net,2026-02-13,Latin America,Premium
+CUST-000105,dtaylor@example.org,2023-06-12,Europe,Standard
+CUST-000106,dmurphy@example.com,2023-07-08,North America,Budget
+CUST-000107,aramirez@example.com,2024-05-17,North America,VIP
+CUST-000108,ismith@example.org,2025-11-13,Middle East,Standard
+CUST-000109,jeffrey10@example.org,2026-05-12,Middle East,Standard
+CUST-000110,maryhowell@example.org,2026-03-18,North America,Premium
+CUST-000111,elliottjeffery@example.net,2023-09-29,Africa,Premium
+CUST-000112,gary91@example.org,2024-02-18,Europe,Premium
+CUST-000113,lanesarah@example.net,2026-04-04,North America,Budget
+CUST-000114,tsanders@example.org,2025-05-24,North America,VIP
+CUST-000115,curtisbarton@example.net,2023-08-05,Europe,Budget
+CUST-000116,hoganashlee@example.org,2025-03-01,Africa,New
+CUST-000117,estanley@example.net,2024-05-28,Europe,VIP
+CUST-000118,atkinsonlynn@example.org,2025-04-22,Europe,VIP
+CUST-000119,cynthia72@example.com,2024-08-30,Middle East,New
+CUST-000120,christina87@example.com,2023-11-22,Europe,New
+CUST-000121,marcus31@example.com,2024-09-01,Latin America,Standard
+CUST-000122,karenhudson@example.net,2026-01-03,North America,Premium
+CUST-000123,snydermark@example.com,2024-07-01,Africa,New
+CUST-000124,matthew94@example.net,2024-01-01,Asia Pacific,New
+CUST-000125,christophercortez@example.com,2023-05-25,Latin America,New
+CUST-000126,hannahbrewer@example.com,2025-01-10,Africa,Premium
+CUST-000127,davisjeffrey@example.net,2024-09-15,Africa,Premium
+CUST-000128,thomas85@example.com,2024-02-04,North America,New
+CUST-000129,michael74@example.com,2026-05-09,Africa,Budget
+CUST-000130,griffithleslie@example.net,2024-02-13,North America,Standard
+CUST-000131,jamesrodgers@example.com,2024-12-20,Europe,Standard
+CUST-000132,tina34@example.org,2025-07-15,Middle East,New
+CUST-000133,alexis82@example.com,2024-06-12,Europe,New
+CUST-000134,tranheidi@example.org,2023-07-02,Europe,Budget
+CUST-000135,agarcia@example.net,2025-04-11,Latin America,Standard
+CUST-000136,lalexander@example.org,2024-03-20,North America,New
+CUST-000137,ewilson@example.com,2024-02-14,Middle East,Premium
+CUST-000138,hernandezlisa@example.com,2024-11-02,North America,VIP
+CUST-000139,davidduran@example.net,2023-08-15,North America,Premium
+CUST-000140,kimberlyjames@example.com,2025-02-24,Europe,Standard
+CUST-000141,ntorres@example.org,2024-04-03,Latin America,New
+CUST-000142,mezajared@example.org,2025-03-11,Latin America,Standard
+CUST-000143,mooreglenn@example.org,2024-02-27,Latin America,Premium
+CUST-000144,mhayes@example.com,2023-11-01,Europe,New
+CUST-000145,keithcampbell@example.com,2024-03-27,North America,New
+CUST-000146,sandrafrench@example.net,2023-07-30,Asia Pacific,New
+CUST-000147,ronaldstephens@example.net,2025-02-17,Asia Pacific,New
+CUST-000148,margaret10@example.org,2023-10-24,Africa,VIP
+CUST-000149,scott74@example.net,2025-09-27,Africa,New
+CUST-000150,vincent77@example.org,2024-07-27,Europe,Standard
+CUST-000151,mnavarro@example.com,2025-02-26,Asia Pacific,Standard
+CUST-000152,suzannehuff@example.net,2023-06-11,North America,VIP
+CUST-000153,keyemily@example.com,2025-02-14,Africa,VIP
+CUST-000154,thomaspearson@example.com,2025-02-02,North America,Budget
+CUST-000155,fwalters@example.org,2023-11-28,North America,Premium
+CUST-000156,qcook@example.org,2024-10-09,Middle East,New
+CUST-000157,robert74@example.net,2025-12-08,Middle East,VIP
+CUST-000158,gibsonleonard@example.com,2026-03-13,Europe,Premium
+CUST-000159,ahancock@example.net,2023-09-17,Middle East,Premium
+CUST-000160,mgutierrez@example.net,2025-12-20,Europe,Premium
+CUST-000161,wgarrett@example.org,2024-06-13,Middle East,Premium
+CUST-000162,sarakim@example.net,2023-12-22,Africa,Standard
+CUST-000163,dudleychelsea@example.org,2024-10-25,Latin America,Premium
+CUST-000164,andrea86@example.org,2025-06-29,Middle East,Standard
+CUST-000165,murraydavid@example.org,2024-01-15,Middle East,VIP
+CUST-000166,william46@example.com,2024-11-09,North America,VIP
+CUST-000167,stephenthomas@example.org,2026-04-21,North America,New
+CUST-000168,michellehill@example.com,2026-02-16,Africa,VIP
+CUST-000169,lori44@example.net,2024-05-20,Middle East,VIP
+CUST-000170,cgrimes@example.net,2025-02-07,Asia Pacific,Budget
+CUST-000171,andrea86@example.com,2024-10-25,Europe,Budget
+CUST-000172,tinaallen@example.com,2026-02-28,Europe,Budget
+CUST-000173,vwilliams@example.com,2024-01-24,Latin America,Standard
+CUST-000174,qhughes@example.net,2025-06-24,Africa,Budget
+CUST-000175,ihanna@example.net,2026-04-21,Latin America,Budget
+CUST-000176,molly71@example.net,2026-04-05,North America,Premium
+CUST-000177,bowenrobert@example.net,2026-02-03,Latin America,VIP
+CUST-000178,harrisontanya@example.com,2026-04-10,Middle East,Premium
+CUST-000179,vsantos@example.net,2025-03-26,North America,VIP
+CUST-000180,ofinley@example.net,2025-12-09,Europe,VIP
+CUST-000181,cbrennan@example.net,2026-01-09,Asia Pacific,Standard
+CUST-000182,wendy16@example.org,2023-07-27,Asia Pacific,Premium
+CUST-000183,wallaceheather@example.org,2025-08-23,Europe,Budget
+CUST-000184,carternicholas@example.org,2023-07-03,Asia Pacific,Standard
+CUST-000185,yknight@example.org,2024-02-05,Latin America,VIP
+CUST-000186,lynchpatrick@example.net,2023-11-16,Africa,Budget
+CUST-000187,jesselittle@example.com,2024-02-01,Middle East,VIP
+CUST-000188,nolansteven@example.com,2024-02-17,North America,VIP
+CUST-000189,charleslandry@example.net,2025-05-24,Asia Pacific,Premium
+CUST-000190,dvaughn@example.com,2024-04-05,Europe,Budget
+CUST-000191,gcastaneda@example.org,2023-12-18,North America,Premium
+CUST-000192,bailey40@example.net,2024-07-04,Africa,VIP
+CUST-000193,knightgina@example.net,2024-07-20,Europe,Budget
+CUST-000194,swall@example.org,2026-04-14,Asia Pacific,VIP
+CUST-000195,jeffery39@example.com,2025-03-08,Europe,Budget
+CUST-000196,courtneyberger@example.net,2025-05-25,Europe,Budget
+CUST-000197,xjohnson@example.net,2023-06-26,Middle East,New
+CUST-000198,mark62@example.org,2023-10-04,Asia Pacific,Premium
+CUST-000199,alyssa42@example.com,2023-10-05,North America,New
+CUST-000200,scoffey@example.net,2026-02-07,Asia Pacific,Premium
+CUST-000201,mcdonaldcharles@example.org,2025-12-22,North America,Budget
+CUST-000202,zcoffey@example.net,2025-12-10,Europe,Budget
+CUST-000203,ismith@example.org,2024-06-17,Europe,New
+CUST-000204,brenda51@example.net,2024-09-22,Middle East,New
+CUST-000205,harveysherry@example.com,2024-01-25,Middle East,Premium
+CUST-000206,deborahreid@example.com,2026-02-09,North America,Premium
+CUST-000207,debra12@example.org,2026-02-02,Africa,Standard
+CUST-000208,wendy11@example.org,2026-03-15,Middle East,Premium
+CUST-000209,paulwatson@example.net,2026-01-09,Asia Pacific,VIP
+CUST-000210,umatthews@example.org,2025-06-14,Middle East,Standard
+CUST-000211,basschristina@example.com,2026-01-07,Latin America,Standard
+CUST-000212,jeff73@example.com,2023-06-18,North America,Budget
+CUST-000213,amy50@example.com,2023-08-30,Asia Pacific,Premium
+CUST-000214,rushmadison@example.org,2024-03-11,Asia Pacific,Standard
+CUST-000215,williamsmatthew@example.org,2025-05-08,Africa,Standard
+CUST-000216,caseyhubbard@example.org,2025-09-21,Africa,Premium
+CUST-000217,markhernandez@example.net,2025-02-14,Asia Pacific,VIP
+CUST-000218,vanessafernandez@example.org,2023-05-17,Latin America,VIP
+CUST-000219,andersonmichael@example.org,2023-09-11,Africa,Standard
+CUST-000220,thompsonbrian@example.net,2025-02-16,Europe,Standard
+CUST-000221,reesethomas@example.com,2024-08-16,Europe,New
+CUST-000222,hayesjeffrey@example.net,2024-11-25,North America,Standard
+CUST-000223,stephen00@example.com,2023-06-30,Africa,Budget
+CUST-000224,fparks@example.net,2025-11-26,Latin America,Standard
+CUST-000225,lammarc@example.org,2026-02-03,Asia Pacific,Standard
+CUST-000226,claudia98@example.net,2023-07-24,Africa,Premium
+CUST-000227,shawn96@example.org,2024-05-04,Latin America,Premium
+CUST-000228,farrelldebra@example.net,2025-09-28,Latin America,Standard
+CUST-000229,russellbeasley@example.com,2025-07-11,Europe,New
+CUST-000230,uross@example.org,2024-05-19,Asia Pacific,Budget
+CUST-000231,elizabeth52@example.net,2024-04-20,Europe,Standard
+CUST-000232,davischristopher@example.com,2026-02-17,North America,Standard
+CUST-000233,lisa80@example.net,2023-08-27,Latin America,Budget
+CUST-000234,elizabeth65@example.net,2026-03-26,Asia Pacific,Premium
+CUST-000235,uparrish@example.org,2026-03-09,Asia Pacific,Budget
+CUST-000236,michael98@example.org,2026-04-08,Africa,VIP
+CUST-000237,gwalker@example.com,2023-10-30,Latin America,VIP
+CUST-000238,danny49@example.org,2025-11-24,Asia Pacific,Premium
+CUST-000239,lynchdiane@example.net,2025-10-13,North America,Budget
+CUST-000240,joshuafarmer@example.com,2024-03-01,Europe,VIP
+CUST-000241,mollyknight@example.com,2024-06-01,Asia Pacific,Premium
+CUST-000242,davisalyssa@example.com,2023-07-29,North America,VIP
+CUST-000243,eric45@example.net,2024-08-15,Latin America,Budget
+CUST-000244,moorekaren@example.org,2025-02-24,Africa,Budget
+CUST-000245,scott67@example.net,2025-05-20,Latin America,VIP
+CUST-000246,jason81@example.com,2024-09-09,Middle East,Premium
+CUST-000247,erika97@example.net,2024-08-26,Latin America,VIP
+CUST-000248,walkertracey@example.org,2025-05-13,Europe,Budget
+CUST-000249,sierra24@example.com,2023-05-22,North America,New
+CUST-000250,jimenezryan@example.org,2024-05-07,North America,VIP
+CUST-000251,vincentwhitaker@example.com,2024-07-03,Middle East,Standard
+CUST-000252,grahamsteve@example.org,2023-07-31,Asia Pacific,New
+CUST-000253,tberry@example.net,2025-12-13,North America,Budget
+CUST-000254,sullivantammy@example.org,2024-08-13,Middle East,Budget
+CUST-000255,xcollier@example.org,2025-10-07,Africa,Premium
+CUST-000256,sanchezbrianna@example.net,2024-09-03,Africa,Budget
+CUST-000257,julie35@example.org,2023-08-08,Middle East,Budget
+CUST-000258,schmidtjames@example.com,2023-08-05,Africa,New
+CUST-000259,joelthomas@example.org,2024-06-01,Asia Pacific,New
+CUST-000260,kathleenrios@example.org,2023-11-19,Africa,Budget
+CUST-000261,kmarshall@example.net,2026-03-20,Middle East,Standard
+CUST-000262,michelle52@example.com,2024-09-16,Europe,New
+CUST-000263,ywelch@example.com,2023-07-27,Africa,New
+CUST-000264,william47@example.com,2025-02-19,Africa,Standard
+CUST-000265,marie11@example.net,2023-06-24,Middle East,VIP
+CUST-000266,jford@example.net,2025-02-22,Asia Pacific,New
+CUST-000267,kstout@example.net,2026-01-18,Middle East,Premium
+CUST-000268,dmason@example.com,2023-12-06,Asia Pacific,Budget
+CUST-000269,toni18@example.net,2023-09-04,Europe,New
+CUST-000270,jasmineritter@example.net,2023-11-18,Middle East,VIP
+CUST-000271,michaelhardin@example.com,2024-12-06,Africa,Budget
+CUST-000272,erika05@example.org,2024-08-03,Latin America,New
+CUST-000273,umitchell@example.net,2024-05-09,Latin America,Standard
+CUST-000274,mathewaguilar@example.org,2026-04-04,Middle East,New
+CUST-000275,tammy62@example.net,2026-02-10,Africa,Standard
+CUST-000276,collinsnicholas@example.com,2025-06-28,Africa,Premium
+CUST-000277,lucasrodney@example.com,2025-10-20,Asia Pacific,VIP
+CUST-000278,henry35@example.com,2023-06-02,Africa,VIP
+CUST-000279,ericphillips@example.org,2023-12-10,Asia Pacific,Premium
+CUST-000280,stanleynancy@example.net,2024-11-19,Europe,Budget
+CUST-000281,lmoore@example.net,2023-10-04,Europe,Standard
+CUST-000282,jenniferwilliams@example.com,2025-09-04,Europe,Premium
+CUST-000283,tarabishop@example.net,2025-05-23,North America,Standard
+CUST-000284,amandacollins@example.com,2025-09-18,Latin America,VIP
+CUST-000285,michealvalentine@example.com,2026-01-27,North America,New
+CUST-000286,kimberly88@example.com,2024-09-30,Latin America,VIP
+CUST-000287,laurietaylor@example.com,2026-04-06,Europe,New
+CUST-000288,jsawyer@example.org,2023-07-10,Latin America,New
+CUST-000289,mitchellkathryn@example.com,2025-06-30,Europe,Standard
+CUST-000290,mariahdavis@example.org,2024-09-17,Africa,Premium
+CUST-000291,sarah60@example.com,2025-10-24,North America,New
+CUST-000292,paulmiller@example.org,2024-11-13,Europe,Standard
+CUST-000293,combsdebra@example.org,2023-06-13,Africa,VIP
+CUST-000294,samantha72@example.net,2023-10-11,Latin America,Premium
+CUST-000295,bullockandrew@example.org,2024-10-08,Middle East,Standard
+CUST-000296,srodriguez@example.org,2025-11-13,North America,New
+CUST-000297,allendanielle@example.net,2024-04-07,Europe,New
+CUST-000298,copelandvincent@example.net,2024-09-25,Africa,VIP
+CUST-000299,jennifercarter@example.org,2023-05-31,Middle East,VIP
+CUST-000300,ashleylopez@example.net,2025-03-17,Asia Pacific,New
+CUST-000301,carlos88@example.net,2023-08-15,Middle East,VIP
+CUST-000302,myerstheodore@example.net,2025-09-21,Latin America,VIP
+CUST-000303,jon05@example.org,2024-07-10,Latin America,Standard
+CUST-000304,ingramjill@example.com,2024-05-25,Africa,New
+CUST-000305,amy27@example.net,2023-10-07,Latin America,Budget
+CUST-000306,lisabrown@example.com,2024-10-18,Europe,Budget
+CUST-000307,bradleygonzalez@example.org,2023-06-23,Middle East,New
+CUST-000308,zachary87@example.com,2024-04-23,Africa,Standard
+CUST-000309,justinatkins@example.org,2023-06-23,Asia Pacific,New
+CUST-000310,joshua56@example.com,2025-12-17,North America,Budget
+CUST-000311,lmorgan@example.com,2025-08-04,Europe,Budget
+CUST-000312,sandra84@example.org,2025-06-09,Asia Pacific,Budget
+CUST-000313,jordanwanda@example.org,2025-07-18,Middle East,Premium
+CUST-000314,curtis54@example.com,2024-12-31,Europe,Standard
+CUST-000315,cjackson@example.com,2024-09-13,Europe,New
+CUST-000316,christina64@example.net,2024-09-14,Africa,Standard
+CUST-000317,jonesdana@example.com,2026-04-21,Africa,Standard
+CUST-000318,stephaniethomas@example.net,2024-11-25,North America,New
+CUST-000319,ejohnson@example.org,2025-05-25,Latin America,Budget
+CUST-000320,michael90@example.net,2025-09-12,Middle East,New
+CUST-000321,xrush@example.com,2023-10-29,Latin America,Premium
+CUST-000322,alyssasanders@example.net,2025-08-26,Europe,New
+CUST-000323,johnsonjacob@example.net,2024-03-14,Latin America,VIP
+CUST-000324,greenjorge@example.com,2024-07-10,Africa,Premium
+CUST-000325,heather73@example.org,2024-01-03,Middle East,New
+CUST-000326,hayesrachel@example.com,2023-10-09,Latin America,Premium
+CUST-000327,elizabeth18@example.net,2026-05-10,Asia Pacific,Budget
+CUST-000328,melissa25@example.net,2024-03-26,Latin America,New
+CUST-000329,laurayoung@example.com,2024-01-14,Middle East,VIP
+CUST-000330,tanner82@example.net,2023-06-11,Middle East,Standard
+CUST-000331,parkeryvonne@example.net,2026-01-06,Latin America,Standard
+CUST-000332,khammond@example.org,2024-10-19,Asia Pacific,New
+CUST-000333,dawn77@example.net,2023-09-28,Latin America,Premium
+CUST-000334,nataliedeleon@example.net,2024-11-30,Latin America,Budget
+CUST-000335,ryanbartlett@example.org,2025-02-15,Africa,New
+CUST-000336,kevinmartin@example.net,2025-11-09,Africa,Standard
+CUST-000337,meghan43@example.net,2024-01-15,Latin America,Standard
+CUST-000338,david49@example.net,2026-03-26,Middle East,VIP
+CUST-000339,brittanycarpenter@example.org,2023-08-24,North America,New
+CUST-000340,megan90@example.org,2025-05-04,Middle East,VIP
+CUST-000341,debra96@example.net,2023-08-10,Africa,Premium
+CUST-000342,ismall@example.com,2025-04-12,North America,New
+CUST-000343,timothy64@example.com,2025-04-15,Europe,New
+CUST-000344,moorerobert@example.com,2023-08-01,Europe,Premium
+CUST-000345,larryhiggins@example.net,2023-12-23,Asia Pacific,New
+CUST-000346,theresa25@example.net,2026-04-29,Asia Pacific,Standard
+CUST-000347,john14@example.com,2025-01-18,Latin America,Budget
+CUST-000348,williamssonia@example.net,2024-02-09,Asia Pacific,New
+CUST-000349,lisapeck@example.net,2024-08-13,Asia Pacific,New
+CUST-000350,tyronerobertson@example.com,2024-04-20,Asia Pacific,Premium
+CUST-000351,zjohnson@example.net,2025-12-31,Latin America,Premium
+CUST-000352,jasongomez@example.org,2024-09-25,Africa,VIP
+CUST-000353,amitchell@example.org,2024-03-17,North America,Budget
+CUST-000354,jessica65@example.org,2024-08-27,Europe,Premium
+CUST-000355,michaelroberts@example.com,2024-07-25,Africa,Premium
+CUST-000356,marcia99@example.org,2024-11-16,North America,Standard
+CUST-000357,longlaura@example.com,2023-10-01,Europe,Premium
+CUST-000358,kari39@example.net,2025-01-13,Middle East,Standard
+CUST-000359,williamsderrick@example.com,2024-07-26,Europe,Standard
+CUST-000360,ghernandez@example.org,2025-10-10,Latin America,Premium
+CUST-000361,francisco94@example.net,2024-05-07,Middle East,Standard
+CUST-000362,terickson@example.com,2024-05-16,Latin America,Budget
+CUST-000363,mark16@example.net,2025-10-23,Asia Pacific,Standard
+CUST-000364,carlsonjoseph@example.net,2024-04-14,Middle East,VIP
+CUST-000365,jennifersilva@example.org,2025-09-17,Africa,Premium
+CUST-000366,rhernandez@example.org,2024-12-08,Europe,Budget
+CUST-000367,leescott@example.com,2023-06-17,North America,VIP
+CUST-000368,roberthampton@example.com,2023-10-26,North America,Budget
+CUST-000369,thorntonapril@example.net,2025-12-24,Middle East,New
+CUST-000370,ufox@example.org,2024-05-03,Latin America,Standard
+CUST-000371,amy49@example.com,2024-09-28,North America,VIP
+CUST-000372,joshuaevans@example.com,2023-12-10,Africa,Standard
+CUST-000373,hannahburns@example.com,2025-09-04,North America,Budget
+CUST-000374,keith98@example.com,2024-05-29,Africa,VIP
+CUST-000375,xcardenas@example.org,2026-01-18,North America,VIP
+CUST-000376,stephanie15@example.com,2024-03-27,North America,Budget
+CUST-000377,ilewis@example.com,2025-05-01,Middle East,New
+CUST-000378,derrick99@example.org,2026-02-28,Africa,Budget
+CUST-000379,danawilliams@example.com,2024-02-03,North America,VIP
+CUST-000380,xgarcia@example.org,2024-05-09,Africa,Budget
+CUST-000381,richarddonovan@example.com,2023-05-19,North America,New
+CUST-000382,katelynmitchell@example.com,2024-10-17,Latin America,Premium
+CUST-000383,pearsonjesse@example.net,2025-04-20,Latin America,Budget
+CUST-000384,gentrygregory@example.org,2025-07-13,Africa,New
+CUST-000385,osbornrandy@example.com,2026-03-01,Africa,Standard
+CUST-000386,nancy04@example.net,2023-12-04,Latin America,Standard
+CUST-000387,justin88@example.com,2025-03-04,Africa,VIP
+CUST-000388,melissamcdonald@example.org,2026-01-11,Africa,Budget
+CUST-000389,francisco74@example.net,2025-10-15,Middle East,VIP
+CUST-000390,krystal93@example.org,2023-12-03,Latin America,New
+CUST-000391,gwilcox@example.com,2025-03-12,Latin America,VIP
+CUST-000392,lopezdonald@example.com,2023-08-16,Asia Pacific,Budget
+CUST-000393,greenjoe@example.com,2026-03-03,Europe,Premium
+CUST-000394,brandi90@example.com,2026-03-23,Asia Pacific,New
+CUST-000395,bryanwilson@example.com,2025-04-28,Europe,New
+CUST-000396,hannah45@example.net,2023-11-04,Middle East,VIP
+CUST-000397,timothygibson@example.net,2024-01-10,Africa,New
+CUST-000398,ztodd@example.net,2024-06-26,Asia Pacific,Premium
+CUST-000399,erinlarson@example.org,2025-11-03,Latin America,Budget
+CUST-000400,christian91@example.org,2024-12-09,Europe,New
+CUST-000401,ashleyhernandez@example.com,2025-11-06,Europe,Budget
+CUST-000402,nwilson@example.net,2025-12-04,Asia Pacific,Budget
+CUST-000403,nolansean@example.org,2025-02-10,Asia Pacific,VIP
+CUST-000404,dbryant@example.net,2024-09-21,Africa,Budget
+CUST-000405,jennifer64@example.org,2024-10-01,Middle East,Premium
+CUST-000406,williamsmelvin@example.org,2025-08-07,Middle East,Standard
+CUST-000407,michaelcesar@example.com,2024-12-26,North America,Standard
+CUST-000408,iwhite@example.net,2023-06-17,Africa,New
+CUST-000409,ybrooks@example.com,2026-04-19,Latin America,VIP
+CUST-000410,rbennett@example.net,2025-12-21,Europe,New
+CUST-000411,desireebailey@example.org,2025-12-26,Africa,New
+CUST-000412,urice@example.org,2026-05-05,Latin America,Premium
+CUST-000413,goodsteven@example.net,2025-11-13,North America,Budget
+CUST-000414,pmorrow@example.com,2024-12-30,Europe,New
+CUST-000415,jacob10@example.net,2024-05-27,Africa,Standard
+CUST-000416,allencarlos@example.net,2024-08-15,Asia Pacific,VIP
+CUST-000417,sanchezbradley@example.com,2023-06-19,Asia Pacific,New
+CUST-000418,karenparsons@example.org,2024-01-25,Middle East,VIP
+CUST-000419,jim95@example.net,2024-11-15,Asia Pacific,New
+CUST-000420,joel28@example.org,2025-02-26,Africa,VIP
+CUST-000421,bruce92@example.net,2024-08-08,Asia Pacific,Budget
+CUST-000422,wwilliams@example.net,2025-05-26,Africa,New
+CUST-000423,heather62@example.com,2025-05-18,Asia Pacific,Budget
+CUST-000424,oallen@example.com,2024-06-29,Asia Pacific,Standard
+CUST-000425,lindamelendez@example.net,2025-12-08,North America,Standard
+CUST-000426,igrant@example.com,2024-08-07,Asia Pacific,Premium
+CUST-000427,markmiller@example.com,2024-02-03,Africa,VIP
+CUST-000428,nicholsmaria@example.org,2025-11-26,Africa,Standard
+CUST-000429,russojacob@example.net,2024-03-02,Europe,Standard
+CUST-000430,timothybooth@example.com,2025-07-15,Africa,New
+CUST-000431,lewisjames@example.net,2024-04-09,Asia Pacific,VIP
+CUST-000432,srocha@example.net,2023-09-19,Middle East,VIP
+CUST-000433,jherman@example.com,2025-06-22,Asia Pacific,Premium
+CUST-000434,powens@example.com,2025-09-09,Europe,Budget
+CUST-000435,william77@example.org,2024-04-15,Europe,Budget
+CUST-000436,ugill@example.org,2025-10-09,Europe,Budget
+CUST-000437,owilliams@example.net,2024-06-22,North America,VIP
+CUST-000438,angela99@example.net,2023-10-20,Europe,Budget
+CUST-000439,jameshall@example.net,2024-08-13,North America,Premium
+CUST-000440,rpierce@example.com,2025-11-11,Middle East,Budget
+CUST-000441,plevy@example.net,2024-02-19,Africa,Standard
+CUST-000442,jessicabell@example.org,2024-11-01,Africa,New
+CUST-000443,iwhite@example.net,2025-07-10,North America,Premium
+CUST-000444,combscharles@example.net,2026-03-27,Middle East,Budget
+CUST-000445,gutierrezmegan@example.org,2023-07-06,Latin America,New
+CUST-000446,albertwagner@example.com,2023-07-27,Latin America,Budget
+CUST-000447,bhopkins@example.org,2023-07-19,Europe,Premium
+CUST-000448,hsmith@example.net,2024-12-16,Asia Pacific,New
+CUST-000449,andre62@example.org,2024-03-09,North America,Premium
+CUST-000450,johnharvey@example.com,2026-02-12,Latin America,New
+CUST-000451,laura15@example.com,2025-10-22,North America,VIP
+CUST-000452,veronicaperez@example.net,2024-09-27,Africa,Premium
+CUST-000453,valdezmichele@example.org,2025-11-05,Europe,Standard
+CUST-000454,ebennett@example.org,2023-08-24,Middle East,Budget
+CUST-000455,christopherbruce@example.net,2025-04-10,North America,Standard
+CUST-000456,jacobsonsamantha@example.org,2025-09-18,North America,VIP
+CUST-000457,enelson@example.net,2023-12-31,Latin America,VIP
+CUST-000458,whitemelissa@example.org,2026-02-20,Middle East,VIP
+CUST-000459,karenmarquez@example.com,2026-03-31,Europe,VIP
+CUST-000460,francisco39@example.com,2026-02-24,Latin America,New
+CUST-000461,patrick21@example.net,2025-05-24,Latin America,Budget
+CUST-000462,brian63@example.org,2025-08-07,Middle East,New
+CUST-000463,unovak@example.org,2024-05-20,Asia Pacific,VIP
+CUST-000464,whenry@example.net,2025-04-07,Middle East,Premium
+CUST-000465,llopez@example.net,2026-03-09,Middle East,Premium
+CUST-000466,lauren11@example.com,2024-07-03,Europe,Standard
+CUST-000467,jodistewart@example.org,2023-10-29,Asia Pacific,Premium
+CUST-000468,sean41@example.org,2023-08-22,Europe,Standard
+CUST-000469,jcole@example.net,2023-08-17,Europe,VIP
+CUST-000470,davisangela@example.net,2024-08-02,North America,Standard
+CUST-000471,michelle04@example.com,2025-02-26,North America,New
+CUST-000472,hardyanita@example.org,2024-07-11,Latin America,VIP
+CUST-000473,ginajackson@example.com,2025-01-29,Latin America,Budget
+CUST-000474,kthomas@example.com,2024-04-07,North America,Standard
+CUST-000475,todd15@example.com,2024-03-11,Asia Pacific,Budget
+CUST-000476,mwheeler@example.com,2026-03-12,Africa,New
+CUST-000477,adam65@example.net,2023-09-08,North America,Standard
+CUST-000478,scott69@example.org,2024-07-02,Asia Pacific,VIP
+CUST-000479,timothythompson@example.com,2024-04-06,Africa,Standard
+CUST-000480,jessica79@example.org,2026-04-08,Latin America,Premium
+CUST-000481,lisa65@example.org,2024-05-04,Middle East,Standard
+CUST-000482,brittanygardner@example.net,2026-02-27,Africa,Standard
+CUST-000483,bentonsteven@example.net,2025-08-31,Asia Pacific,Standard
+CUST-000484,marie16@example.net,2023-12-29,North America,Premium
+CUST-000485,john26@example.com,2024-11-10,Europe,Budget
+CUST-000486,iaguilar@example.net,2023-08-02,Middle East,VIP
+CUST-000487,ystephens@example.com,2026-02-18,Asia Pacific,New
+CUST-000488,rodriguezjohn@example.net,2025-06-20,North America,New
+CUST-000489,hartdeanna@example.net,2024-06-05,Africa,Budget
+CUST-000490,tammy61@example.org,2024-07-24,Africa,New
+CUST-000491,williamstone@example.net,2023-08-29,Asia Pacific,VIP
+CUST-000492,seanmyers@example.net,2025-06-04,Middle East,New
+CUST-000493,michaeljohnson@example.org,2025-02-16,Latin America,Premium
+CUST-000494,wilsonshelia@example.org,2024-04-01,Middle East,Premium
+CUST-000495,stanley38@example.com,2024-05-29,Latin America,Budget
+CUST-000496,kimheather@example.com,2024-05-29,Middle East,Budget
+CUST-000497,patrickdarin@example.com,2023-07-26,North America,Premium
+CUST-000498,sarahyang@example.net,2025-04-22,Europe,VIP
+CUST-000499,marksimmons@example.com,2023-11-21,Middle East,Premium
+CUST-000500,lsoto@example.net,2024-01-22,Africa,Budget
+CUST-000501,njohnson@example.org,2025-05-02,Middle East,Premium
+CUST-000502,tprice@example.org,2024-09-17,Europe,New
+CUST-000503,raylauren@example.net,2023-12-25,Middle East,New
+CUST-000504,james14@example.net,2023-12-04,Asia Pacific,Standard
+CUST-000505,candice96@example.net,2025-12-13,Middle East,New
+CUST-000506,megan92@example.net,2023-09-16,Africa,New
+CUST-000507,samantha91@example.net,2025-06-25,North America,New
+CUST-000508,allendaryl@example.com,2023-10-07,Asia Pacific,New
+CUST-000509,ibarnes@example.net,2025-06-11,Asia Pacific,Budget
+CUST-000510,tommymedina@example.net,2024-07-07,Africa,Premium
+CUST-000511,angelaburns@example.org,2026-02-26,Europe,Budget
+CUST-000512,wharvey@example.org,2023-12-04,Latin America,New
+CUST-000513,lisamaynard@example.net,2024-10-25,Asia Pacific,New
+CUST-000514,acohen@example.net,2025-04-28,Middle East,Premium
+CUST-000515,kjackson@example.org,2025-11-18,Latin America,Premium
+CUST-000516,kellyhill@example.net,2025-10-01,Asia Pacific,Budget
+CUST-000517,xcunningham@example.com,2024-03-25,Asia Pacific,Premium
+CUST-000518,armstrongjoseph@example.net,2025-01-04,Latin America,VIP
+CUST-000519,amber07@example.net,2025-10-31,North America,VIP
+CUST-000520,pgarcia@example.org,2024-01-08,Latin America,New
+CUST-000521,colemichael@example.org,2024-04-03,North America,Standard
+CUST-000522,rowejoel@example.net,2024-09-05,Middle East,Budget
+CUST-000523,michelle96@example.org,2025-02-15,Middle East,New
+CUST-000524,lisatrujillo@example.net,2025-03-18,Africa,New
+CUST-000525,candice25@example.net,2024-06-01,North America,Standard
+CUST-000526,stephanie81@example.org,2024-03-29,Asia Pacific,VIP
+CUST-000527,rsellers@example.net,2026-04-02,Europe,Budget
+CUST-000528,johndawson@example.org,2023-09-29,Latin America,New
+CUST-000529,kburns@example.net,2025-08-24,North America,Premium
+CUST-000530,ebrooks@example.net,2024-03-03,Africa,VIP
+CUST-000531,powellkara@example.net,2025-09-30,Europe,Standard
+CUST-000532,shawn75@example.net,2026-03-04,Asia Pacific,VIP
+CUST-000533,simonstephen@example.net,2023-05-16,North America,VIP
+CUST-000534,flynnraymond@example.com,2025-06-15,Latin America,Premium
+CUST-000535,sadams@example.com,2025-11-02,Europe,Premium
+CUST-000536,ashleewashington@example.com,2025-01-02,Latin America,Premium
+CUST-000537,williamsconnie@example.com,2026-01-17,Africa,Standard
+CUST-000538,scottsmith@example.com,2023-05-31,Latin America,Budget
+CUST-000539,nicoleturner@example.com,2023-12-21,Middle East,Budget
+CUST-000540,john52@example.org,2023-08-24,Latin America,New
+CUST-000541,jessica36@example.net,2024-07-20,Latin America,Standard
+CUST-000542,smiththomas@example.org,2023-08-21,Latin America,VIP
+CUST-000543,ssmith@example.com,2025-02-22,Europe,New
+CUST-000544,ebenson@example.org,2025-10-24,Europe,VIP
+CUST-000545,crosscurtis@example.com,2024-01-19,Middle East,Standard
+CUST-000546,derrick22@example.org,2024-06-19,North America,Budget
+CUST-000547,bishopfrank@example.com,2024-12-14,Latin America,Budget
+CUST-000548,samanthajensen@example.com,2025-07-13,Middle East,Budget
+CUST-000549,mosleydonald@example.org,2025-12-10,North America,Budget
+CUST-000550,bbell@example.com,2025-02-17,Africa,Budget
+CUST-000551,joshuamiller@example.net,2025-09-26,Middle East,VIP
+CUST-000552,kimberly04@example.org,2025-03-02,Africa,New
+CUST-000553,juliephillips@example.org,2024-11-30,Europe,New
+CUST-000554,troyrodriguez@example.com,2025-09-18,Middle East,New
+CUST-000555,ricetiffany@example.com,2025-04-11,Asia Pacific,Budget
+CUST-000556,paulcombs@example.com,2026-03-01,Middle East,VIP
+CUST-000557,kathrynbest@example.org,2024-06-17,Latin America,New
+CUST-000558,smithjason@example.org,2023-06-01,Asia Pacific,Standard
+CUST-000559,ohunter@example.net,2026-03-17,Africa,Standard
+CUST-000560,zhenderson@example.org,2024-11-12,Middle East,New
+CUST-000561,joshuacollins@example.net,2025-04-14,Europe,New
+CUST-000562,amandamyers@example.net,2026-02-15,North America,Budget
+CUST-000563,collinssamuel@example.org,2025-08-26,Africa,New
+CUST-000564,middletondarren@example.net,2023-07-16,Africa,New
+CUST-000565,elizabeth21@example.org,2025-03-10,Latin America,Standard
+CUST-000566,martinstephanie@example.net,2025-06-27,Latin America,Premium
+CUST-000567,gary24@example.net,2024-11-30,Europe,VIP
+CUST-000568,rogersruben@example.net,2026-01-08,Middle East,Budget
+CUST-000569,crawfordwilliam@example.org,2023-07-22,North America,New
+CUST-000570,michaelscott@example.org,2024-11-11,North America,VIP
+CUST-000571,perezwilliam@example.org,2026-01-17,Latin America,Premium
+CUST-000572,sanchezthomas@example.com,2025-12-09,Africa,Standard
+CUST-000573,sarahmathews@example.net,2026-02-14,Latin America,Standard
+CUST-000574,pwalker@example.com,2025-10-09,North America,New
+CUST-000575,joseph19@example.com,2026-02-09,Asia Pacific,Budget
+CUST-000576,whitelinda@example.org,2023-09-21,Middle East,New
+CUST-000577,wileymichelle@example.com,2026-03-23,Africa,Premium
+CUST-000578,msmith@example.com,2024-05-06,Asia Pacific,VIP
+CUST-000579,jodi37@example.com,2025-01-20,Latin America,Budget
+CUST-000580,xcuevas@example.org,2025-02-19,Africa,New
+CUST-000581,edwardrandolph@example.org,2025-07-24,Middle East,Premium
+CUST-000582,cynthia05@example.org,2024-01-24,Middle East,Premium
+CUST-000583,usweeney@example.com,2025-08-22,Europe,Budget
+CUST-000584,robertwoodward@example.org,2023-09-04,Europe,Premium
+CUST-000585,williamsjesse@example.net,2025-07-01,Latin America,Premium
+CUST-000586,stephen19@example.org,2024-08-08,Africa,Premium
+CUST-000587,kjones@example.org,2024-11-17,Latin America,Standard
+CUST-000588,joelgreen@example.com,2024-09-01,Africa,Budget
+CUST-000589,vhaynes@example.com,2026-02-21,North America,Premium
+CUST-000590,jesus32@example.net,2024-04-26,Asia Pacific,Premium
+CUST-000591,martinsteven@example.com,2023-09-10,Asia Pacific,Budget
+CUST-000592,tami37@example.com,2023-09-23,Asia Pacific,New
+CUST-000593,davislindsey@example.com,2024-10-02,Europe,Standard
+CUST-000594,lewismelissa@example.org,2025-11-03,Middle East,New
+CUST-000595,tanyafoster@example.org,2023-08-21,Middle East,Standard
+CUST-000596,lori20@example.com,2025-05-24,Europe,Standard
+CUST-000597,codygarcia@example.org,2025-12-04,North America,VIP
+CUST-000598,greertoni@example.org,2023-09-23,Latin America,VIP
+CUST-000599,owatson@example.net,2023-12-16,Africa,Standard
+CUST-000600,samantha10@example.org,2023-08-14,Latin America,VIP
+CUST-000601,flamb@example.com,2023-12-16,Europe,Standard
+CUST-000602,kwilliams@example.com,2023-09-25,Latin America,Budget
+CUST-000603,ycrawford@example.net,2025-10-29,Latin America,Budget
+CUST-000604,jason24@example.com,2024-08-23,Africa,Premium
+CUST-000605,austinharvey@example.org,2024-09-13,Latin America,Budget
+CUST-000606,jjenkins@example.com,2025-04-21,Africa,VIP
+CUST-000607,patrick63@example.net,2023-07-19,Europe,Premium
+CUST-000608,crystalpham@example.org,2026-01-06,Latin America,Budget
+CUST-000609,timothy75@example.net,2026-05-01,Middle East,Budget
+CUST-000610,bnelson@example.com,2024-11-14,Africa,New
+CUST-000611,huangkimberly@example.org,2025-02-25,Africa,Budget
+CUST-000612,xmoreno@example.net,2025-10-15,Latin America,Budget
+CUST-000613,craigsandoval@example.com,2026-05-12,Europe,New
+CUST-000614,gallagherstacie@example.net,2024-12-18,Latin America,Premium
+CUST-000615,lkelly@example.org,2025-11-25,Europe,New
+CUST-000616,linda59@example.org,2024-01-28,Middle East,Budget
+CUST-000617,stacey92@example.net,2025-06-22,Middle East,Budget
+CUST-000618,lweaver@example.com,2026-03-17,Africa,Budget
+CUST-000619,halljeffery@example.net,2023-06-24,North America,New
+CUST-000620,samantha32@example.com,2024-10-18,Asia Pacific,Premium
+CUST-000621,brian29@example.net,2025-07-07,Middle East,Premium
+CUST-000622,mathismichelle@example.org,2026-02-11,Middle East,New
+CUST-000623,vwillis@example.com,2024-06-26,Asia Pacific,Standard
+CUST-000624,jessicakim@example.net,2024-05-01,Middle East,Budget
+CUST-000625,grant89@example.com,2026-03-30,Europe,Standard
+CUST-000626,nicholasgross@example.com,2024-01-13,Middle East,Budget
+CUST-000627,rushstacy@example.com,2023-09-30,Africa,Standard
+CUST-000628,whitelucas@example.net,2025-11-30,Africa,Premium
+CUST-000629,zunigadonald@example.net,2024-01-10,Africa,Premium
+CUST-000630,toni21@example.net,2023-08-07,Asia Pacific,New
+CUST-000631,sean43@example.org,2025-05-16,North America,VIP
+CUST-000632,jonathan10@example.org,2025-06-11,Asia Pacific,Standard
+CUST-000633,acosta@example.com,2024-07-09,North America,Budget
+CUST-000634,amy17@example.net,2026-01-03,Asia Pacific,New
+CUST-000635,franciscojones@example.org,2025-04-25,Europe,Standard
+CUST-000636,jose11@example.com,2024-03-31,Europe,VIP
+CUST-000637,emartin@example.net,2023-11-16,Asia Pacific,VIP
+CUST-000638,morgantricia@example.com,2026-03-10,Middle East,Budget
+CUST-000639,kdunlap@example.net,2025-06-23,Europe,Budget
+CUST-000640,brianrivera@example.org,2026-01-12,Latin America,Budget
+CUST-000641,donna43@example.org,2024-08-04,Africa,Budget
+CUST-000642,xhernandez@example.org,2023-07-07,North America,New
+CUST-000643,madison97@example.org,2024-08-24,North America,Standard
+CUST-000644,georgecarter@example.org,2023-08-28,Europe,New
+CUST-000645,parkerraymond@example.com,2024-10-13,Middle East,Budget
+CUST-000646,christopher86@example.org,2026-01-17,North America,New
+CUST-000647,cwood@example.org,2024-06-23,North America,Budget
+CUST-000648,rbaker@example.net,2024-02-26,Middle East,Premium
+CUST-000649,millermaurice@example.net,2023-07-20,Latin America,Budget
+CUST-000650,angelarandall@example.net,2024-08-09,Africa,Budget
+CUST-000651,parmstrong@example.com,2024-08-14,Middle East,New
+CUST-000652,torr@example.org,2024-04-05,Africa,Budget
+CUST-000653,davidtodd@example.org,2024-11-13,North America,Standard
+CUST-000654,teresastokes@example.org,2026-03-18,Latin America,Premium
+CUST-000655,mcneilryan@example.net,2023-06-29,Middle East,VIP
+CUST-000656,luis11@example.com,2023-10-22,Asia Pacific,VIP
+CUST-000657,melissa87@example.org,2025-01-12,Europe,Premium
+CUST-000658,jrodriguez@example.org,2025-09-21,Africa,New
+CUST-000659,buckleyanna@example.org,2025-01-23,Africa,Budget
+CUST-000660,natalie46@example.net,2025-09-20,Africa,New
+CUST-000661,rjohnson@example.com,2024-10-26,North America,Standard
+CUST-000662,vwilliams@example.net,2023-10-18,North America,Premium
+CUST-000663,xmccall@example.org,2024-01-29,Asia Pacific,New
+CUST-000664,larry71@example.org,2024-05-17,North America,Premium
+CUST-000665,uschroeder@example.com,2023-10-08,Europe,VIP
+CUST-000666,lopezjason@example.com,2025-07-20,Europe,New
+CUST-000667,lori82@example.org,2025-08-02,Latin America,Budget
+CUST-000668,htaylor@example.net,2024-04-18,Africa,VIP
+CUST-000669,nancygonzalez@example.org,2023-06-14,Latin America,VIP
+CUST-000670,xwilliams@example.net,2024-02-11,Africa,Standard
+CUST-000671,madison86@example.net,2023-12-18,Latin America,Premium
+CUST-000672,allentracy@example.com,2026-02-17,Latin America,VIP
+CUST-000673,wmatthews@example.com,2023-11-24,Latin America,Budget
+CUST-000674,kaitlyn14@example.org,2023-11-09,North America,Budget
+CUST-000675,melissachan@example.org,2024-07-10,Europe,New
+CUST-000676,ericaadams@example.com,2025-12-07,Latin America,Standard
+CUST-000677,wellsdavid@example.org,2024-11-26,Asia Pacific,Premium
+CUST-000678,walkercharlene@example.com,2025-03-02,Africa,Budget
+CUST-000679,rodney65@example.com,2025-07-02,Middle East,Budget
+CUST-000680,hturner@example.net,2024-02-13,North America,New
+CUST-000681,smithyvonne@example.com,2024-07-21,Asia Pacific,Standard
+CUST-000682,kenneth17@example.org,2025-01-17,North America,New
+CUST-000683,danielle44@example.net,2024-05-16,North America,Standard
+CUST-000684,jacob83@example.org,2025-06-30,Africa,VIP
+CUST-000685,rguerrero@example.org,2025-10-11,North America,Premium
+CUST-000686,qbright@example.com,2025-07-11,Asia Pacific,Standard
+CUST-000687,aguilarwanda@example.org,2024-07-30,Europe,VIP
+CUST-000688,ginalittle@example.com,2024-05-23,Europe,Premium
+CUST-000689,william28@example.org,2026-01-30,Middle East,Standard
+CUST-000690,qanderson@example.net,2024-03-30,Middle East,Standard
+CUST-000691,staceylam@example.net,2025-10-15,Europe,Budget
+CUST-000692,jeffrey46@example.com,2023-08-19,Europe,VIP
+CUST-000693,steven17@example.org,2024-06-23,North America,Budget
+CUST-000694,kennedyjames@example.org,2025-12-17,Europe,Standard
+CUST-000695,amoreno@example.org,2025-12-18,Middle East,Budget
+CUST-000696,derrickgonzalez@example.com,2025-12-22,Europe,Premium
+CUST-000697,tthomas@example.org,2026-04-28,Africa,Premium
+CUST-000698,lcook@example.com,2025-09-12,Europe,Premium
+CUST-000699,hayesjason@example.org,2025-04-07,Asia Pacific,Standard
+CUST-000700,tracygallagher@example.org,2025-02-03,Middle East,Budget
+CUST-000701,zschultz@example.com,2023-10-02,North America,Standard
+CUST-000702,ismith@example.org,2026-04-05,Asia Pacific,Premium
+CUST-000703,mcclainkatherine@example.net,2025-07-22,Europe,New
+CUST-000704,simsjohn@example.net,2023-12-08,Middle East,Premium
+CUST-000705,david68@example.net,2025-12-29,Africa,Premium
+CUST-000706,colonkenneth@example.com,2024-04-13,Latin America,New
+CUST-000707,ryan25@example.com,2024-09-24,Asia Pacific,VIP
+CUST-000708,frederickmeadows@example.com,2024-06-10,Middle East,Premium
+CUST-000709,jessicaanderson@example.net,2023-06-03,Latin America,VIP
+CUST-000710,daviddawson@example.org,2023-06-06,Europe,VIP
+CUST-000711,kelsey90@example.net,2024-06-27,North America,VIP
+CUST-000712,valdezandrew@example.net,2026-05-07,Asia Pacific,New
+CUST-000713,jjames@example.com,2023-09-17,Africa,Premium
+CUST-000714,jamiejennings@example.org,2024-10-14,North America,New
+CUST-000715,batesjoseph@example.net,2024-04-07,Latin America,New
+CUST-000716,grivas@example.net,2025-06-19,Africa,Premium
+CUST-000717,campbellkristen@example.com,2025-07-09,Latin America,New
+CUST-000718,kimberlydecker@example.org,2023-12-17,North America,Premium
+CUST-000719,cphillips@example.net,2024-06-08,Asia Pacific,VIP
+CUST-000720,haleycastillo@example.org,2024-11-07,Europe,Premium
+CUST-000721,meadowsmary@example.net,2023-05-16,Europe,Budget
+CUST-000722,chancharles@example.net,2024-11-05,Middle East,VIP
+CUST-000723,dawn74@example.com,2023-09-01,Middle East,Budget
+CUST-000724,limorgan@example.com,2024-10-03,Latin America,VIP
+CUST-000725,ronald11@example.org,2024-06-11,Middle East,Budget
+CUST-000726,elizabethjackson@example.com,2023-05-24,Latin America,VIP
+CUST-000727,natalie15@example.com,2026-01-17,Middle East,New
+CUST-000728,dross@example.com,2023-11-30,North America,Premium
+CUST-000729,pmarsh@example.org,2025-11-14,Africa,VIP
+CUST-000730,jarvismegan@example.org,2023-09-14,Africa,Standard
+CUST-000731,rpham@example.com,2024-08-11,Latin America,New
+CUST-000732,nmaxwell@example.org,2023-11-28,Europe,New
+CUST-000733,timothyfreeman@example.com,2025-12-13,Asia Pacific,New
+CUST-000734,greenleon@example.net,2024-09-07,Latin America,New
+CUST-000735,tiffanysantiago@example.com,2025-12-19,Africa,Premium
+CUST-000736,reynoldsjessica@example.com,2024-12-02,Asia Pacific,New
+CUST-000737,jhernandez@example.net,2024-05-26,Asia Pacific,Budget
+CUST-000738,williamharrison@example.com,2023-07-12,Asia Pacific,Standard
+CUST-000739,waltonmalik@example.com,2025-12-21,Africa,New
+CUST-000740,hunterandrea@example.com,2026-04-10,North America,Premium
+CUST-000741,christianwallace@example.net,2024-07-28,North America,Premium
+CUST-000742,hwest@example.com,2024-09-15,Latin America,Premium
+CUST-000743,garciarobert@example.net,2025-08-07,Africa,Budget
+CUST-000744,connersylvia@example.net,2025-01-04,Europe,VIP
+CUST-000745,diamondbryant@example.com,2024-04-11,North America,VIP
+CUST-000746,velasquezmegan@example.com,2024-06-14,Middle East,VIP
+CUST-000747,xmoran@example.net,2025-01-16,Asia Pacific,Premium
+CUST-000748,malonejeffrey@example.com,2024-09-20,Latin America,Budget
+CUST-000749,amy51@example.org,2024-06-05,Africa,New
+CUST-000750,ttaylor@example.net,2026-01-20,Africa,Premium
+CUST-000751,kingjames@example.org,2025-07-12,Asia Pacific,VIP
+CUST-000752,ylewis@example.org,2026-02-25,Asia Pacific,Budget
+CUST-000753,shermanbrandon@example.net,2025-07-06,North America,VIP
+CUST-000754,bartonshannon@example.net,2025-11-16,Middle East,Standard
+CUST-000755,tamarasmith@example.net,2025-02-17,Europe,New
+CUST-000756,eroberson@example.net,2023-07-06,Europe,Premium
+CUST-000757,heatherthompson@example.org,2025-09-15,Asia Pacific,VIP
+CUST-000758,william66@example.net,2023-09-04,Asia Pacific,Premium
+CUST-000759,joshuastuart@example.com,2026-02-09,Asia Pacific,VIP
+CUST-000760,devonmorrison@example.net,2024-09-20,Europe,New
+CUST-000761,jennifer83@example.org,2024-11-24,Middle East,VIP
+CUST-000762,glenda22@example.net,2023-12-29,Middle East,VIP
+CUST-000763,jennifer58@example.com,2024-12-28,North America,VIP
+CUST-000764,icraig@example.com,2025-02-10,Africa,Budget
+CUST-000765,hstokes@example.org,2025-12-29,North America,Standard
+CUST-000766,brianbrown@example.com,2023-06-10,Asia Pacific,Budget
+CUST-000767,tonyavega@example.org,2025-08-12,Asia Pacific,Budget
+CUST-000768,james80@example.com,2025-11-18,North America,Standard
+CUST-000769,jensenemma@example.net,2025-10-21,Europe,VIP
+CUST-000770,yyoung@example.net,2025-12-16,Africa,New
+CUST-000771,housepaul@example.net,2024-03-23,North America,Standard
+CUST-000772,smithjohn@example.net,2024-04-20,Africa,Premium
+CUST-000773,ogreer@example.net,2025-12-20,North America,VIP
+CUST-000774,kari89@example.org,2025-06-28,Europe,New
+CUST-000775,kellythompson@example.net,2025-09-09,Latin America,New
+CUST-000776,jillwilson@example.org,2023-08-03,Asia Pacific,Standard
+CUST-000777,david94@example.org,2024-08-25,Asia Pacific,Budget
+CUST-000778,billmcfarland@example.net,2024-05-09,Africa,Budget
+CUST-000779,tracy98@example.com,2023-07-08,Middle East,VIP
+CUST-000780,alicia28@example.org,2023-08-01,North America,Premium
+CUST-000781,robertherrera@example.org,2025-09-20,Europe,Standard
+CUST-000782,elizabethrivera@example.com,2024-05-30,Middle East,Premium
+CUST-000783,wbarajas@example.net,2024-01-08,Africa,Premium
+CUST-000784,sean99@example.org,2023-05-23,Asia Pacific,New
+CUST-000785,patrick16@example.com,2026-03-28,Africa,New
+CUST-000786,angel85@example.net,2024-12-25,Latin America,VIP
+CUST-000787,stucker@example.net,2025-10-09,Latin America,New
+CUST-000788,vaughangary@example.net,2023-12-10,Asia Pacific,Standard
+CUST-000789,clarkcrystal@example.org,2024-12-17,Middle East,Premium
+CUST-000790,nhouston@example.net,2025-12-16,Asia Pacific,New
+CUST-000791,elucas@example.net,2025-11-06,North America,Budget
+CUST-000792,stevensmartin@example.org,2025-06-03,Africa,VIP
+CUST-000793,lauragrant@example.net,2023-08-02,Latin America,VIP
+CUST-000794,rickey76@example.com,2025-10-29,Africa,Budget
+CUST-000795,inunez@example.org,2024-04-24,North America,Standard
+CUST-000796,avilabrenda@example.net,2025-04-15,Latin America,VIP
+CUST-000797,sarah14@example.net,2025-11-27,North America,Premium
+CUST-000798,campbellsara@example.com,2024-04-07,Europe,Budget
+CUST-000799,wellsamanda@example.org,2024-07-19,Europe,Standard
+CUST-000800,susan24@example.net,2025-08-08,Asia Pacific,Budget
+CUST-000801,susan08@example.net,2026-01-09,Asia Pacific,Premium
+CUST-000802,smithcandice@example.net,2023-10-15,North America,New
+CUST-000803,torreskaitlin@example.net,2025-01-02,Africa,New
+CUST-000804,gwhitehead@example.org,2024-05-24,Europe,Standard
+CUST-000805,christinaking@example.org,2023-11-06,Latin America,VIP
+CUST-000806,yorksarah@example.net,2023-11-28,Africa,Standard
+CUST-000807,robertscarlos@example.org,2024-09-30,Middle East,VIP
+CUST-000808,wlynn@example.org,2023-12-16,Africa,Budget
+CUST-000809,craigharvey@example.org,2025-05-18,North America,New
+CUST-000810,qmurphy@example.com,2024-04-25,Africa,Premium
+CUST-000811,arianadiaz@example.com,2025-06-11,Latin America,Premium
+CUST-000812,adamsanchez@example.org,2026-03-28,Latin America,Premium
+CUST-000813,xhill@example.org,2025-07-01,Asia Pacific,VIP
+CUST-000814,natalie77@example.com,2025-05-27,Latin America,VIP
+CUST-000815,larnold@example.net,2025-09-08,Latin America,New
+CUST-000816,michele28@example.org,2025-03-08,Asia Pacific,Premium
+CUST-000817,lunapatricia@example.net,2024-02-26,Latin America,Premium
+CUST-000818,nhammond@example.org,2025-04-04,Asia Pacific,Standard
+CUST-000819,jvaldez@example.com,2025-01-06,Middle East,New
+CUST-000820,dennis88@example.org,2024-07-16,Africa,Budget
+CUST-000821,batesmelanie@example.net,2024-07-21,North America,New
+CUST-000822,seanwhite@example.net,2025-06-01,North America,Standard
+CUST-000823,jillwebb@example.com,2025-05-05,Latin America,VIP
+CUST-000824,qhall@example.com,2023-06-27,Latin America,VIP
+CUST-000825,aprilmoody@example.com,2024-01-25,North America,New
+CUST-000826,ckeith@example.net,2024-10-09,Asia Pacific,Budget
+CUST-000827,mary49@example.net,2024-05-02,Europe,Budget
+CUST-000828,xvaldez@example.net,2025-01-27,Europe,Premium
+CUST-000829,blacknicholas@example.org,2025-04-28,Middle East,Premium
+CUST-000830,lisa57@example.com,2024-11-29,Middle East,VIP
+CUST-000831,shawdon@example.org,2026-01-09,Europe,Budget
+CUST-000832,jason22@example.com,2024-01-20,Asia Pacific,Standard
+CUST-000833,guerrerorobert@example.com,2025-03-03,Europe,Premium
+CUST-000834,eleonard@example.org,2025-07-10,Europe,Budget
+CUST-000835,cjohnson@example.org,2025-02-18,Europe,Standard
+CUST-000836,dennishunt@example.net,2025-01-30,Middle East,Standard
+CUST-000837,jonathanwhite@example.com,2023-10-21,Africa,Premium
+CUST-000838,johnsjessica@example.com,2025-02-28,Europe,New
+CUST-000839,shanehaney@example.com,2026-03-16,Latin America,VIP
+CUST-000840,yburke@example.net,2023-11-16,Middle East,New
+CUST-000841,cindydixon@example.org,2025-10-28,Africa,VIP
+CUST-000842,sandra99@example.org,2025-07-14,Africa,VIP
+CUST-000843,banderson@example.org,2024-01-20,Asia Pacific,Budget
+CUST-000844,mserrano@example.org,2024-12-06,Europe,New
+CUST-000845,richamanda@example.org,2023-11-24,North America,New
+CUST-000846,rachelryan@example.org,2023-08-24,Latin America,Budget
+CUST-000847,xboyd@example.org,2026-01-20,Asia Pacific,VIP
+CUST-000848,zperez@example.com,2025-06-15,North America,Budget
+CUST-000849,zbell@example.net,2025-09-24,Middle East,Premium
+CUST-000850,colemanjonathan@example.org,2026-02-01,Asia Pacific,New
+CUST-000851,campbellnancy@example.com,2026-02-03,Latin America,Premium
+CUST-000852,fletcherkristine@example.net,2024-02-20,North America,Budget
+CUST-000853,brooksjamie@example.com,2024-12-06,Asia Pacific,Premium
+CUST-000854,mooredenise@example.com,2024-08-03,Africa,Premium
+CUST-000855,ncunningham@example.com,2024-02-24,Middle East,VIP
+CUST-000856,afischer@example.net,2026-05-04,Middle East,New
+CUST-000857,jwhite@example.net,2025-09-18,Latin America,VIP
+CUST-000858,becky62@example.net,2024-10-24,Middle East,Premium
+CUST-000859,seanlyons@example.org,2023-09-21,Latin America,VIP
+CUST-000860,zhartman@example.net,2023-08-31,Africa,Standard
+CUST-000861,martintamara@example.org,2025-03-16,Asia Pacific,VIP
+CUST-000862,thomasburke@example.org,2025-10-10,Latin America,VIP
+CUST-000863,nathanlynch@example.net,2023-07-23,Europe,Premium
+CUST-000864,hmendez@example.com,2024-07-07,Latin America,Premium
+CUST-000865,bautistalori@example.net,2025-07-01,Asia Pacific,Premium
+CUST-000866,harrisdiane@example.net,2024-11-05,Middle East,Standard
+CUST-000867,bowerswilliam@example.net,2024-03-22,North America,Standard
+CUST-000868,emilyward@example.net,2024-01-22,Africa,New
+CUST-000869,christopherhill@example.com,2023-05-14,Latin America,VIP
+CUST-000870,msullivan@example.net,2024-06-03,Middle East,VIP
+CUST-000871,calhounandrea@example.net,2023-05-30,Europe,Budget
+CUST-000872,michael43@example.net,2025-11-07,Asia Pacific,Budget
+CUST-000873,kspears@example.org,2026-04-02,Latin America,New
+CUST-000874,jhunter@example.org,2024-02-23,Asia Pacific,VIP
+CUST-000875,stacey84@example.net,2024-11-14,North America,Budget
+CUST-000876,heather69@example.com,2025-10-20,North America,Budget
+CUST-000877,susan77@example.net,2025-09-03,North America,VIP
+CUST-000878,ewilson@example.com,2025-12-12,Africa,New
+CUST-000879,ericahall@example.com,2025-04-06,Asia Pacific,Budget
+CUST-000880,zachary04@example.org,2024-08-07,Africa,VIP
+CUST-000881,vnunez@example.org,2024-03-23,Europe,Budget
+CUST-000882,thomasgomez@example.net,2025-01-10,North America,VIP
+CUST-000883,victorgonzalez@example.net,2024-03-03,Africa,Standard
+CUST-000884,jamie33@example.net,2024-02-03,Asia Pacific,Budget
+CUST-000885,wilsonchristian@example.net,2024-06-06,Africa,New
+CUST-000886,duranamber@example.org,2024-11-03,Europe,VIP
+CUST-000887,christine79@example.com,2025-11-27,Africa,Premium
+CUST-000888,raymond92@example.org,2024-11-01,Asia Pacific,VIP
+CUST-000889,imendoza@example.org,2024-12-09,Latin America,Budget
+CUST-000890,xdalton@example.org,2024-11-14,Europe,VIP
+CUST-000891,wolfesteve@example.net,2024-09-25,North America,New
+CUST-000892,nicolasgarcia@example.com,2023-05-23,Middle East,Budget
+CUST-000893,jacob43@example.com,2025-03-14,North America,Budget
+CUST-000894,michael76@example.org,2024-10-11,Asia Pacific,Standard
+CUST-000895,michael64@example.com,2024-08-14,Europe,Budget
+CUST-000896,tiffanyparks@example.org,2023-11-26,Latin America,Standard
+CUST-000897,angelachase@example.org,2025-07-11,Europe,Standard
+CUST-000898,thomassmith@example.com,2023-10-20,Europe,Premium
+CUST-000899,kristen44@example.net,2024-11-11,Asia Pacific,Premium
+CUST-000900,rosshannah@example.org,2025-12-09,Middle East,VIP
+CUST-000901,thomas17@example.net,2024-01-04,Africa,VIP
+CUST-000902,michael84@example.com,2024-05-14,North America,Budget
+CUST-000903,bellerin@example.net,2023-06-04,Middle East,Standard
+CUST-000904,tiffanymitchell@example.com,2023-12-17,Middle East,New
+CUST-000905,champton@example.org,2025-05-20,Europe,Standard
+CUST-000906,steven22@example.net,2024-07-04,Europe,VIP
+CUST-000907,robert99@example.com,2025-10-14,Europe,New
+CUST-000908,millermatthew@example.com,2025-11-28,North America,New
+CUST-000909,jennifer96@example.com,2024-04-24,Asia Pacific,Standard
+CUST-000910,julie87@example.com,2026-01-10,Latin America,VIP
+CUST-000911,martinezjimmy@example.com,2023-11-13,Asia Pacific,New
+CUST-000912,clarkrandy@example.org,2026-03-08,Europe,VIP
+CUST-000913,bkelley@example.com,2023-07-22,Europe,Budget
+CUST-000914,garciachristine@example.org,2024-12-07,Latin America,Standard
+CUST-000915,pparker@example.net,2025-04-30,Asia Pacific,VIP
+CUST-000916,davidroberson@example.org,2024-03-20,Latin America,New
+CUST-000917,michelle57@example.com,2023-06-21,Asia Pacific,New
+CUST-000918,amy28@example.org,2026-04-15,Middle East,VIP
+CUST-000919,owelch@example.net,2025-02-18,Latin America,Standard
+CUST-000920,regina78@example.org,2024-09-01,Europe,VIP
+CUST-000921,aparker@example.com,2025-10-11,Europe,Budget
+CUST-000922,smithlisa@example.org,2023-10-31,North America,New
+CUST-000923,snichols@example.com,2024-05-24,Asia Pacific,VIP
+CUST-000924,xevans@example.com,2026-03-15,North America,VIP
+CUST-000925,laurakelley@example.org,2025-10-03,North America,Budget
+CUST-000926,kfoster@example.net,2024-08-06,North America,Standard
+CUST-000927,oclayton@example.com,2025-07-29,Asia Pacific,New
+CUST-000928,zacharymarsh@example.net,2023-08-08,Middle East,Standard
+CUST-000929,justin84@example.com,2025-10-14,Latin America,Premium
+CUST-000930,whitekeith@example.net,2023-12-05,Europe,New
+CUST-000931,nnelson@example.com,2024-09-23,Asia Pacific,Premium
+CUST-000932,hernandeztara@example.org,2023-12-05,Latin America,Premium
+CUST-000933,campbelldavid@example.com,2023-12-03,Latin America,VIP
+CUST-000934,christophersmith@example.org,2025-07-18,Asia Pacific,Standard
+CUST-000935,kristi75@example.com,2024-05-22,Latin America,Premium
+CUST-000936,riveramegan@example.org,2025-06-15,Asia Pacific,Standard
+CUST-000937,ejones@example.org,2023-07-14,North America,Budget
+CUST-000938,lisa01@example.net,2023-12-10,North America,Budget
+CUST-000939,cwright@example.org,2024-02-10,Europe,Standard
+CUST-000940,boydtina@example.com,2024-09-29,North America,Budget
+CUST-000941,sharon20@example.net,2024-07-13,Latin America,Standard
+CUST-000942,kingdanielle@example.org,2026-03-05,Africa,New
+CUST-000943,boyerjeff@example.org,2024-06-11,Latin America,VIP
+CUST-000944,knguyen@example.com,2024-01-27,North America,Premium
+CUST-000945,amccormick@example.org,2025-02-12,North America,Budget
+CUST-000946,jbarker@example.com,2025-02-08,Europe,Standard
+CUST-000947,ericdavis@example.net,2025-09-04,Middle East,VIP
+CUST-000948,browndeanna@example.net,2024-05-18,Middle East,New
+CUST-000949,martinezjesse@example.net,2024-12-21,North America,Budget
+CUST-000950,linda73@example.org,2025-09-23,Europe,Budget
+CUST-000951,jennifer40@example.com,2025-06-06,North America,Premium
+CUST-000952,amy73@example.net,2025-06-25,Europe,New
+CUST-000953,mario74@example.net,2023-12-04,Africa,VIP
+CUST-000954,caseymoore@example.com,2026-02-08,Latin America,Premium
+CUST-000955,shawn86@example.net,2025-10-27,North America,New
+CUST-000956,harveymichael@example.net,2023-12-03,Middle East,VIP
+CUST-000957,barrettamber@example.com,2024-01-30,North America,VIP
+CUST-000958,jcannon@example.net,2023-12-07,Middle East,Standard
+CUST-000959,hdavidson@example.org,2024-03-19,Africa,Standard
+CUST-000960,williamssharon@example.org,2024-12-06,Asia Pacific,New
+CUST-000961,daniellee@example.org,2025-12-25,North America,VIP
+CUST-000962,hbarrett@example.net,2025-01-28,Asia Pacific,Standard
+CUST-000963,brandon39@example.net,2025-06-19,Middle East,New
+CUST-000964,dianahebert@example.org,2023-07-30,Europe,Premium
+CUST-000965,wardjulia@example.com,2024-10-07,Middle East,Budget
+CUST-000966,colonjoseph@example.org,2025-10-30,North America,VIP
+CUST-000967,christian38@example.org,2025-07-26,Middle East,VIP
+CUST-000968,amandalopez@example.net,2023-09-01,Middle East,VIP
+CUST-000969,angelagrant@example.net,2025-05-02,North America,New
+CUST-000970,emily61@example.org,2023-09-06,Latin America,Premium
+CUST-000971,qwagner@example.org,2025-09-27,Africa,New
+CUST-000972,umahoney@example.net,2024-12-18,Asia Pacific,Budget
+CUST-000973,megan66@example.net,2026-05-03,Africa,Premium
+CUST-000974,annalewis@example.net,2024-05-02,Asia Pacific,Premium
+CUST-000975,michael77@example.com,2026-02-21,Asia Pacific,Standard
+CUST-000976,birdcaitlin@example.net,2023-05-14,Africa,Premium
+CUST-000977,adam33@example.com,2023-10-08,Middle East,Budget
+CUST-000978,samantha88@example.net,2023-06-06,Europe,Premium
+CUST-000979,clintonstevens@example.org,2026-02-20,Asia Pacific,VIP
+CUST-000980,pamela33@example.com,2023-10-12,Asia Pacific,Standard
+CUST-000981,duncanashley@example.org,2025-10-18,Africa,New
+CUST-000982,laura27@example.net,2025-07-26,Africa,New
+CUST-000983,larsonkevin@example.net,2025-06-21,Africa,Standard
+CUST-000984,dmiller@example.com,2025-10-15,Europe,Premium
+CUST-000985,hbutler@example.org,2024-05-28,Africa,New
+CUST-000986,walterscrystal@example.org,2025-08-09,North America,Budget
+CUST-000987,floresannette@example.com,2024-04-11,Europe,Premium
+CUST-000988,ericnunez@example.com,2024-11-14,Europe,Premium
+CUST-000989,walkerkeith@example.com,2026-04-11,Asia Pacific,Budget
+CUST-000990,christopher90@example.net,2023-10-23,Middle East,New
+CUST-000991,rossryan@example.net,2024-07-24,Middle East,New
+CUST-000992,timothygonzalez@example.com,2023-10-03,Asia Pacific,Premium
+CUST-000993,annshea@example.net,2025-04-27,Africa,Standard
+CUST-000994,adamsrussell@example.net,2024-02-07,Asia Pacific,Budget
+CUST-000995,rodriguezrobert@example.com,2026-02-18,North America,Budget
+CUST-000996,melvin04@example.org,2024-05-29,Asia Pacific,Premium
+CUST-000997,chanson@example.org,2026-04-29,Asia Pacific,New
+CUST-000998,jamesbrooks@example.net,2026-02-19,Latin America,New
+CUST-000999,singhjohn@example.net,2025-12-02,Latin America,Budget
+CUST-001000,alexander14@example.com,2026-02-21,Europe,New
